@@ -345,10 +345,15 @@ threat-analysis platform.
 
 ## Team
 
-**Team CyberX**
+## Team — CyberNexus
 
-*Add team member names, university details, GitHub repository, and demo
-link here before final submission.*
+**Abhay Gupta** — Team Leader  
+**Tejasvaah Sopori** — Co-Leader  
+**Sagar Shahi** — Co-Leader  
+
+**University:** Galgotias University, Greater Noida, Uttar Pradesh  
+**Project:** CyberX — Cyber Threat Intelligence & Digital Forensics Platform  
+**GitHub Repository:** [CyberX](https://github.com/gabhay7012-cell/CyberX)
 
 ------------------------------------------------------------------------
 
